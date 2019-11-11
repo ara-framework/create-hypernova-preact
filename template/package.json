@@ -11,8 +11,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "hypernova": "^2.5.0",
-    "hypernova-preact": "^1.0.1",
-    "preact": "^8.4.2"
+    "hypernova-preact": "^2.0.0",
+    "preact": "^10.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
